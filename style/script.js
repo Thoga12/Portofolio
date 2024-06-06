@@ -1,16 +1,14 @@
-
 const currentPath = window.location.pathname;
-// console.log(currentPath)
-
+const cleanedPath = currentPath.startsWith('/') ? currentPath.slice(1) : currentPath;
 
 const navLinks = document.querySelectorAll('.navbar > a');
 // console.log(navLinks)
 
 navLinks.forEach(link => {
-	// console.log(link.getAttribute('href'))
+	var links = `about/${link.getAttribute('href')}`
 
-    if (link.getAttribute('href') === currentPath) {
+
+    if (links === cleanedPath) {
         link.classList.add('active');
-		// console.log("berhasil Masuk")
     }
 });
