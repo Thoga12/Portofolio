@@ -1,0 +1,93 @@
+[
+    {
+        "title": "Belajar Dasar Pemrograman Web",
+        "issuer": "Dicoding",
+        "date": "Mei 2024",
+        "description": "Dasar-dasar pemrograman web termasuk HTML, CSS, dan JavaScript.",
+        "image": "../sertifikats/dsarPemrogramanWebss.png"
+    },
+    {
+        "title": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
+        "issuer": "Dicoding",
+        "date": "Agustus 2023",
+        "description": "Pengenalan logika pemrograman untuk pemula.",
+        "image": "../sertifikats/logikaPemrogramans.png"
+    },
+    {
+        "title": "Belajar Dasar Git dengan GitHub",
+        "issuer": "Dicoding",
+        "date": "Agustus 2023",
+        "description": "Dasar-dasar penggunaan Git dan GitHub.",
+        "image": "../sertifikats/gitDanGithubs.png"
+    },
+    {
+        "title": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+        "issuer": "Dicoding",
+        "date": "Agustus 2023",
+        "description": "Dasar-dasar pemrograman untuk menjadi pengembang software.",
+        "image": "../sertifikats/dasarPemrogramans.png"
+    },
+    {
+        "title": "Memulai Pemrograman dengan Kotlin",
+        "issuer": "Dicoding",
+        "date": "Agustus 2023",
+        "description": "Pemrograman dasar menggunakan Kotlin.",
+        "image": "../sertifikats/mulaiDenganKotlin.png"
+    },
+    {
+        "title": "Belajar Membuat Aplikasi Android untuk Pemula",
+        "issuer": "Dicoding",
+        "date": "September 2023",
+        "description": "Pembuatan aplikasi Android dasar untuk pemula.",
+        "image": "../sertifikats/aplikasiAndroidUntukPemula.png"
+    },
+    {
+        "title": "Belajar Prinsip Pemrograman SOLID",
+        "issuer": "Dicoding",
+        "date": "Oktober 2023",
+        "description": "Pengenalan prinsip-prinsip pemrograman SOLID.",
+        "image": "../sertifikats/pemrogramanSOLID.png"
+    },
+    {
+        "title": "Belajar Fundamental Aplikasi Android",
+        "issuer": "Dicoding",
+        "date": "Oktober 2023",
+        "description": "Fundamental pengembangan aplikasi Android.",
+        "image": "../sertifikats/fundamentalAndroid.png"
+    },
+    {
+        "title": "Belajar Pengembangan Aplikasi Android Intermediate",
+        "issuer": "Dicoding",
+        "date": "November 2023",
+        "description": "Pengembangan aplikasi Android tingkat menengah.",
+        "image": "../sertifikats/intermediateAplikasiAndroid.png"
+    },
+    {
+        "title": "Belajar Membuat Aplikasi Android dengan Jetpack Compose",
+        "issuer": "Dicoding",
+        "date": "November 2023",
+        "description": "Pembuatan aplikasi Android menggunakan Jetpack Compose.",
+        "image": "../sertifikats/jetpackCompose.png"
+    },
+    {
+        "title": "Belajar Dasar UX Design",
+        "issuer": "Dicoding",
+        "date": "Maret 2024",
+        "description": "Dasar-dasar desain pengalaman pengguna (UX).",
+        "image": "../sertifikats/uxDesign.png"
+    },
+    {
+        "title": "Belajar Membuat Front-End Web untuk Pemula",
+        "issuer": "Dicoding",
+        "date": "Mei 2024",
+        "description": "Pembuatan front-end web untuk pemula.",
+        "image": "../sertifikats/frontendWebUntukPemula.png"
+    },
+    {
+        "title": "Mobile Development",
+        "issuer": "Bangkit Academy",
+        "date": "Januari 2024",
+        "description": "Program studi independen BANGKIT Academy oleh Google, GoTo, dan Traveloka.",
+        "image": "../sertifikats/bangkit.png"
+    }
+]
